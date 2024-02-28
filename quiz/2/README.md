@@ -35,4 +35,6 @@
 26.  C (programming language)
 27.  Fortran is a programming language ancestor of Matlab and ABC (programming language) is a programming language ancestor of Python
 28.  A logarithm gives a number that a base must be raised to the power of to give a number. An example of this is taking the log of 10 with base 10, which will yield the value of 1.
-29.  The value of S is 1683, where I used the Gauss method to find that value.
+29.  The value of S is 1683, where I used the Gauss method in my [work](https://github.com/tancaotrannn/IDS2024S/blob/main/quiz/2/Quiz%20Question%20%2329%20Work.png) to find that value.  
+30.  Magnetic tapes are longer lasting, which lasts 10 years while an HDD lasts around 5 years.
+31.  I forgot the name, but it's some sort of Greek astronomical calculator I believe.  I don't know if there is partial credit but worth a try.
