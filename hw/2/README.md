@@ -25,12 +25,19 @@
 20. We can only add transistors to a certain amount, otherwise adding too much would take up more power and generate heat.  
 21. The computer CPU cycle has an instruction fetch stage to get new instruction from the memory address, decoding stage where the encoded instruction is interpreted by the CPU decoder, and executaiton stage where the control unit of the CPU passes the decoded info to relevant function units of the CPU.
 22. A powerful computer with more CPU cycles can be slower due to factors like having inefficient access to memory where there could be so much data being moved around but the memory of the computer can only handle so much data at one time, which could lead to a bottleneck or some degree of performance limitation.  
-23. The bottleneck   
+23. The bottleneck of speed can vary as it depends on the tasks and workload that a computer is undergoing, along with the hardware that it has. CPU clocks are efficient and advanced now but memory access speed hasn't kept up so bottlenecks tend to happen in memory access.
 24.
-- Dennard Scaling:
-- MOSFET Scaling:
+- Dennard Scaling: describes the relationship between reducing the size of transistors and reducing power consumption while keeping a constant current.   
+- MOSFET Scaling: is another name for Dennard Scaling; states that as transistors get smaller, their power density stays constant so that the power use stays in proportion with area.   
 - Moore's Law: states that the number of transistors in microchips (or Integrated Circuits (IC)) will double bi-yearly.
-25.   
-26.   
+25.
+- 64 grains of rice
+- 2080 grains of rice
+- Roughly 0.297 lbs of rice 
+26.
+- Roughly 1.844E19 grains of rice
+- Also roughly 1.844E19 grains of rice
+- 2.857E15 lbs in the last square
+- 1428.5 years
 27. The three fundamental components are a set of primitive instructions/operations, a mechanism to execute instructions sequentially, and a mechanism for branching/conditional execution.  
-28.   
+28. Exponential behavior in a 2-D plot would show a curved slope that would steepen, whereas a power-law looks like a straight line on a logarithmic scale.  
